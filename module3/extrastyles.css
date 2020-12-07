@@ -1,0 +1,33 @@
+.navbar-light {
+    background-color: rgb(197, 197, 197);
+}
+#brandname {
+    font-size: 1.75em;
+    font-weight: 400;
+    padding-left: 10px;
+}
+body {
+    background-color: white;
+}
+h1 {
+    margin: 30px auto 30px;
+}
+h2{
+    padding: 40px;
+}
+p {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#infosection {
+    background-color: rgb(197, 197, 197);
+    height: 1700px;
+}
+#toggle {
+    background-color: rgb(172, 172, 172);
+    margin: 0 -15px 0 -15px;
+}
+#toggle a:hover {
+    background-color: white;
+}
